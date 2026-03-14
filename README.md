@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Besufkad%20Ayele&fontAlign=50&fontAlignY=35&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=50&desc=Flutter%20%7C%20Next.js%20%7C%20Crafting%20Modern%20Digital%20Experiences&descAlign=50&descAlignY=60&descSize=18&animation=fadeIn" />
