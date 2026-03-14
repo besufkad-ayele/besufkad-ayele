@@ -26,6 +26,8 @@
 ║   Level       : ██████████████████░░ 90%                         ║
 ║   Focus       : Mobile Apps, Responsive Web, Scalable Backends   ║
 ║                                                                  ║
+║                                                                  ║
+║                                                                  ║
 ║   Current Mission:                                               ║
 ║   → Building smooth, high-performance apps for                   ║
 ║     mobile, desktop, and web                                     ║
@@ -33,10 +35,10 @@
 ║   ⚔️  SPECIAL SKILLS:                                            ║
 ║   ├── 🎨 Flutter UI Engineering              ████████████ 95%    ║
 ║   ├── 🌐 Next.js App Development             ███████████░ 90%    ║
-║   ├── 🔗 REST API & Firebase Integration      ██████████░░ 85%    ║
-║   ├── 🏗️ Clean Architecture                   ██████████░░ 88%    ║
+║   ├── 🔗 REST API & Firebase Integration      ██████████░░ 85%   ║
+║   ├── 🏗️ Clean Architecture                   ██████████░░ 88%   ║
 ║   ├── 🔄 State Management                    ███████████░ 92%    ║
-║   └── ⚡ Performance Optimization             ██████████░░ 87%    ║
+║   └── ⚡ Performance Optimization             ██████████░░ 87%   ║
 ║                                                                  ║
 ║   STATUS: Ready for next quest...                                ║
 ║                                                                  ║
